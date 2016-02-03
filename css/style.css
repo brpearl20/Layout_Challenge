@@ -1,0 +1,213 @@
+
+.top-one {
+  width: 93.5%;
+  height: 100px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  margin-right: 40px;
+}   
+
+  .second-top {
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    width: 55%;
+    height: 610px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom:10px;
+  }
+
+.second-top.two {
+	width: 36%;
+  height: 610px;
+}
+
+
+.footer {
+  width: 93.5%;
+  height: 100px;
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-bottom: 10px;
+
+ }
+
+ /*Three-Column*/
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 90%;
+    margin: 0 auto;
+}
+
+ .three-top {
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+ }
+
+
+.row { 
+    width: 100%;
+    height: 400px;
+    margin: 20px 0;
+}
+
+.column {
+    float: left;
+    width: 15%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.column-2 {
+    width: 64.8%;
+    margin: 0 20px;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-top: 10px;
+   clear: both;
+} 
+
+/*marketing w/ nav*/
+
+.clear-parent {overflow: hidden;}
+
+.logo{ 
+width: 300px;
+height: 150px;
+background-color: gray; 
+border: solid black 3px;
+margin: 10px;
+margin-right: 80px;
+float: left;
+clear;
+}
+
+.nav {
+width: 150px;
+height: 50px;
+background-color: purple; 
+border: solid black 3px;
+margin-top: 50px;
+margin-left: 10px;
+float: left;
+clear;
+}
+
+
+.content {
+  width: 100%;
+  height: 300px;
+  border: 5px solid blue;
+  clear: both;
+  margin-left: 10px;
+}
+
+.article {
+width: 380px;
+height: 250px;
+background-color: gray; 
+border: solid black 3px;
+float: left;
+margin: 10px 10px;
+}
+
+.bottom {
+    width: 100%;
+    height: 100px;
+    border: 5px solid blue;
+    margin-left: 10px;
+    clear: both;
+}
+
+/*simple marketing*/
+
+body {
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+  header {
+    width: 100%;
+    height: 100px;
+    border: 5px solid blue;
+    margin-bottom: 10px;
+ }
+
+.row { 
+    width: 100%;
+    height: 400px;
+    margin: 20px 0;
+
+}
+ .market1 {
+    width: 45%;
+    height: 90%;
+    border: 5px solid blue;
+    margin-bottom: 10px;
+    float: left;
+ }
+
+ .market2{
+    width: 45%;
+    height: 90%;
+    border: 5px solid blue;
+    margin-bottom: 10px;
+    margin-left: 102px;
+    float: left;
+ }
+
+ .row2 {
+  width: 100%;
+  margin: 20px 0;
+  padding-left: 30px;
+ }
+ 
+.box1{
+  width: 31%;
+  height: 150px;
+  border: 5px solid blue;
+  margin-bottom: 10px;
+  float: left;
+}
+
+.box2 {
+  width: 31%;
+  height: 150px;
+  border: 5px solid blue;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  float: left;
+}
+
+.box3 {
+  width: 31%;
+  height: 150px;
+  border: 5px solid blue;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  float: left;
+}
+
+ .footer{
+    width: 100%;
+    height: 100px;
+    border: 5px solid blue;
+    margin-bottom: 50px;
+ }
+
+
+
+
